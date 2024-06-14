@@ -65,7 +65,7 @@ searchBoxInput.addEventListener("keyup", async (event) => {
 gpsButton.addEventListener("click", getUserLocation);
 
 ctaButton.addEventListener("click", () => {
-  window.open("https://alfinakash.vercel.app/");
+  window.open("https://alfinakash.github.io/portfolio/");
 });
 
 topButton.addEventListener("click", scrollToTop);
